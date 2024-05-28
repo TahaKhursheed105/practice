@@ -1,0 +1,14 @@
+  /* the slides */
+  .slick_slide {
+    margin: 0 27px;
+    border-radius: 40px !important;
+    display: flex !important;
+    gap: 60px !important;
+  
+}
+
+/* the parent */
+.slick_list {
+    margin: 0 -27px;
+   
+}

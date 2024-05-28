@@ -1,0 +1,23 @@
+/* .preNav{
+    display: flex;
+} */
+
+.bg_colr{
+  background-color: #F2F1F0;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  color: rgba(0, 0, 0, 0);
+  opacity: 1;
+  display: block;
+  background: url('../../assets/Images/DownArrow.png') no-repeat;
+  width: 20px;
+  height: 20px;
+  border-width: thin;
+  margin-bottom: -15px;
+}
+
+@media screen {
+  
+  
+}

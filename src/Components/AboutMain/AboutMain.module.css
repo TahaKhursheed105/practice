@@ -1,0 +1,16 @@
+.btn{ 
+    font-size: large;
+    border-radius: 32px !important;
+    background-color: #282828 !important;
+    font-family: 'Poppins', sans-serif !important;
+    padding: 10px 20px  !important;
+    color: #BD8C20 !important;
+    font-weight: 700 !important;
+}
+@media (max-width: 600px){
+.heading{
+    font-size: 20px !important;
+        
+
+    }
+}

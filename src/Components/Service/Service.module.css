@@ -1,0 +1,44 @@
+.Container{
+    background-color: #BD8C20;
+}
+
+.HeadService{
+font-size: 40px;
+font-weight: 300;
+color: #4F4E4E;
+
+}
+.HeadingService{
+    font-size: 50px;
+    color: #FEFEFE;
+    font-weight: 800;
+}
+
+@media (max-width:625px){
+    .HeadingService{
+        font-size: 30px !important;
+        color: #FEFEFE;
+        font-weight: 500 !important;
+    }
+
+}
+.ParagraphService{
+    font-size: 20px;
+    font-weight: 300;
+    color: fff;
+}
+.ParagraphLine{
+    font-weight: 600;
+    font-size: 20px;
+    color: #725107;
+}
+.btnServices{
+    background-color: #4F4E4E !important;
+    color: fff;
+    width: 200px;
+    border-radius: 70px !important;
+    border: 1px solid #4F4E4E !important;
+
+
+}
+
